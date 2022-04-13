@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on IRIB
+- 🌱 I’m currently learning Python
+- 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladjalali1364&theme=highcontrast&hide=contribs,prs)
 
 <a href="https://github.com/miladjalali1364 ">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladjalali1364&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
@@ -17,8 +22,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on IRIB
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
