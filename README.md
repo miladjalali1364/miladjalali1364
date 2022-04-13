@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi I'm Milad Jalali 👋
 
 - 🔭 I’m currently working on IRIB
 - 🌱 I’m currently learning Python
+
+![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladjalali1364&theme=highcontrast&hide=contribs,prs) -->
 
