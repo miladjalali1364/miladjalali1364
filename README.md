@@ -6,9 +6,8 @@
 
 # Glad to see you here!
 
-- 🔭 I’m currently working on IRIB
+- 🔭 I’m currently working on IRIB                           
 - 🌱 I’m currently learning Python
-
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladjalali1364&theme=highcontrast&hide=contribs,prs) -->
@@ -20,11 +19,9 @@
 <a href="https://github.com/miladjalali1364">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladjalali1364&theme=highcontrast" />
 </a>
-
 <a  >
-<img align="center" src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" />
+<img align="right" src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" />
 </a>
-
 
 <!--
 **miladjalali1364/miladjalali1364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
