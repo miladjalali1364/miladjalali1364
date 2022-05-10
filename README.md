@@ -33,7 +33,7 @@
 </a>
 🚀 I’m currently learning Data Structures and Algorithms on leetcode;</br>
 💬 Ask me about anything, I am happy to help; </br>
-📝 I regulary write articles on medium;</br>
+
 📫 How to reach me: milad.jlali@gmail.com;</br>
 📝 Resume.
 
