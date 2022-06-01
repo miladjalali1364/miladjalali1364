@@ -31,7 +31,7 @@
 👨🏻‍💻 I’m currently working on something cool;</br> <a  >
 <img align="right" src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" />
 </a>
-🚀 I’m currently learning Data Structures and Algorithms on leetcode;</br>
+🚀 I’m currently learning Data Structures and Algorithms on datacamp;</br>
 💬 Ask me about anything, I am happy to help; </br>
 
 📫 How to reach me: milad.jlali@gmail.com;</br>
